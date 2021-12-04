@@ -26,16 +26,18 @@
 ![워드클라우드_실행결과](https://user-images.githubusercontent.com/53985471/144693070-d6c1f260-3316-4b8b-a5af-c223b6f0d5a6.png)
 
 * 산점도 (Google Scatter Chart)<br>
-- (수관너비-평균_수고간 관계 산점도 그래프)<br>
+1. (수관너비-평균_수고간 관계 산점도 그래프)<br>
 ![스캐터차트1_실행결과](https://user-images.githubusercontent.com/53985471/144693103-6639493f-d810-458a-979d-7cd5d31439ae.png)
-- (수관너비-평균_흉고지름간 관계 산점도 그래프)<br>
+2. (수관너비-평균_흉고지름간 관계 산점도 그래프)<br>
 ![스캐터차트2_실행결과](https://user-images.githubusercontent.com/53985471/144693107-73226821-2c85-45bd-b618-b65b17a4f99f.png)
 
 * 구글 파이 차트 (Google Pie Chart)<br>
 ![파이차트_실행결과](https://user-images.githubusercontent.com/53985471/144693161-dfce649b-a5da-4ea7-afcd-34c9bdcc0727.png)
 
 * 인터랙티브 그래프 (Interactive Graph)<br>
+1. (관리등급에 따른 수목별 분포 인터랙티브 그래프)<br>
 ![인터랙티브1_실행결과](https://user-images.githubusercontent.com/53985471/144693183-ba4e8499-d293-46d7-923d-587b8383b4e1.png)
+1. (피해정도에 따른 수목별 분포 인터랙티브 그래프)<br>
 ![인터랙티브그래프2_실행결과](https://user-images.githubusercontent.com/53985471/144693198-8fb3dd5d-5150-4536-940a-cf6a1311deee.png)
 
 # 상세한 내용은 깃허브내의 PPT 및 소스코드를 참고해주세요.
